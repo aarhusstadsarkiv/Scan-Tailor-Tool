@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "scantailor-tool"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "scantailor_tool"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+pymupdf = "^1.21.1"
+attrdict3 = "^2.0.2"
+attrdict = "^2.0.1"
+gooey = "^1.0.8.1"
+pypdf = "^3.7.0"
+pyinstaller = "^5.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
