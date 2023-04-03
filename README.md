@@ -4,7 +4,9 @@ Værktøjet består af tre dele. pdf2jgp, Scan Tailor og images2jgp
 
 
 pdf2jgp's source code findes i dette repository
+
 Scan Tailor´s source code findes her: https://github.com/scantailor/scantailor (bemærk at Scan Tailor vedligeholdelse er udgået)
+
 images2jgp's source code findes i repository "smart-client"
 
 
